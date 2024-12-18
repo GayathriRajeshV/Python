@@ -1,0 +1,3 @@
+f=open("days.txt","a")
+f.write("friday")
+f.close()
